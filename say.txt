@@ -1,0 +1,9 @@
+итого 14K
+drwxrwxrwx 1 anna anna 4,0K мая 27 13:20 .
+drwxrwxrwx 1 anna anna 4,0K мая 23 16:45 ..
+drwxrwxrwx 1 anna anna 4,0K мая 27 12:46 .git
+-rwxrwxrwx 1 anna anna   22 мая 27 12:44 INFO.md
+-rwxrwxrwx 1 anna anna   14 мая 23 16:51 NEW.md
+-rwxrwxrwx 1 anna anna   37 мая 27 12:44 README.md
+-rwxrwxrwx 1 anna anna    0 мая 27 13:20 say.txt
+-rwxrwxrwx 1 anna anna    0 мая 26 13:05 text.md
